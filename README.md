@@ -1,4 +1,4 @@
-##Favorite Bear
+# Favorite Bear
 
 1. Yes, I frequent sites such as frontendmasters.com, egghead.io, and udemy.com to fill in any gaps and to bring myself up to speed. My latest interest has been in Reactive programming and utilizing frameworks like Rx.js to handle user events.
 
