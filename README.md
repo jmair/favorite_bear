@@ -1,3 +1,5 @@
+##Favorite Bear
+
 1. Yes, I frequent sites such as frontendmasters.com, egghead.io, and udemy.com to fill in any gaps and to bring myself up to speed. My latest interest has been in Reactive programming and utilizing frameworks like Rx.js to handle user events.
 
 2. Semantic HTML5 means that you use the right tag in the right place to more accurately describe the page layout and the data on the page. Meaning that you don't use tags just for presentational concerns.
