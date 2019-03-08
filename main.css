@@ -1,0 +1,24 @@
+.left, .right {
+  display: inline-block;
+}
+
+.title, .description {
+  display: inline-block;
+  padding: 0 4px;
+  margin: 0;
+}
+
+.favorite {
+  color: black;
+}
+
+.favorite:before {
+  content: '\2764';
+  width: 25px;
+  height: 25px;
+  padding-right: 25px;
+}
+
+.favorite.checked {
+  color: red;
+}
